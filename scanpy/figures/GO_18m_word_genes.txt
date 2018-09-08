@@ -1,0 +1,91 @@
+
+RNA: 0 study genes, 0 GOs
+RNA GOs: 
+0 study genes:
+  
+
+translation: 0 study genes, 0 GOs
+translation GOs: 
+0 study genes:
+  
+
+mitochond: 0 study genes, 0 GOs
+mitochond GOs: 
+0 study genes:
+  
+
+ribosomal: 0 study genes, 0 GOs
+ribosomal GOs: 
+0 study genes:
+  
+
+ribosome: 0 study genes, 0 GOs
+ribosome GOs: 
+0 study genes:
+  
+
+adhesion: 6 study genes, 3 GOs
+adhesion GOs: GO:0007160, GO:0034116, GO:0050839
+0) BP GO:0007160 cell-matrix adhesion (5 genes)
+1) BP GO:0034116 positive regulation of heterotypic cell-cell adhesion (3 genes)
+2) MF GO:0050839 cell adhesion molecule binding (4 genes)
+6 study genes:
+  Agt, Col3a1, Fga, Fgb, Fgg, Tgfbi
+
+endoplasmic: 22 study genes, 2 GOs
+endoplasmic GOs: GO:0005783, GO:0048237
+0) CC GO:0005783 endoplasmic reticulum (20 genes)
+1) CC GO:0048237 rough endoplasmic reticulum lumen (2 genes)
+22 study genes:
+  Alox5ap, Apoe, Ass1, Ces1c, Ctsc, Cyp2e1, Dbi, F10, Fgb, Gjb1
+  Grn, Hp, Hpd, Ifitm3, Lyz1, Lyz2, Mgst1, Npc2, P4hb, Scd1
+  Serpina1a, Serpina1b
+
+nucleotide: 0 study genes, 0 GOs
+nucleotide GOs: 
+0 study genes:
+  
+
+apoptotic: 4 study genes, 2 GOs
+apoptotic GOs: GO:1902042, GO:2000352
+0) BP GO:1902042 negative regulation of extrinsic apoptotic signaling pathway via death domain receptors (3 genes)
+1) BP GO:2000352 negative regulation of endothelial cell apoptotic process (4 genes)
+4 study genes:
+  Fga, Fgb, Fgg, Scg2
+
+inflammation: 0 study genes, 0 GOs
+inflammation GOs: 
+0 study genes:
+  
+
+immune: 14 study genes, 4 GOs
+immune GOs: GO:0002283, GO:0002376, GO:0002740, GO:0045087
+0) BP GO:0002283 neutrophil activation involved in immune response (2 genes)
+1) BP GO:0002376 immune system process (11 genes)
+2) BP GO:0002740 negative regulation of cytokine secretion involved in immune response (2 genes)
+3) BP GO:0045087 innate immune response (10 genes)
+14 study genes:
+  Apoa1, Apoa2, C3, C8g, Clec4a2, Fcer1g, Fcgr1, Fga, Fgb, Fgg
+  Hp, Ifitm2, Ifitm3, Tyrobp
+
+MHC: 4 study genes, 1 GOs
+MHC GOs: GO:0042590
+0) BP GO:0042590 antigen processing and presentation of exogenous peptide antigen via MHC class I (4 genes)
+4 study genes:
+  Clec4a2, Fcer1g, Fcgr1, Fcgr3
+
+growth: 0 study genes, 0 GOs
+growth GOs: 
+0 study genes:
+  
+
+differentiation: 3 study genes, 1 GOs
+differentiation GOs: GO:0050873
+0) BP GO:0050873 brown fat cell differentiation (3 genes)
+3 study genes:
+  Lrg1, Plac8, Scd1
+
+development: 0 study genes, 0 GOs
+development GOs: 
+0 study genes:
+  

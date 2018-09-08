@@ -1,0 +1,101 @@
+
+RNA: 11 study genes, 3 GOs
+RNA GOs: GO:0000462, GO:0006364, GO:0019843
+0) BP GO:0000462 maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA) (4 genes)
+1) BP GO:0006364 rRNA processing (5 genes)
+2) MF GO:0019843 rRNA binding (4 genes)
+11 study genes:
+  Rpl14, Rpl35a, Rpl9, Rps14, Rps16, Rps18, Rps19, Rps4x, Rps5, Rps7
+  Rps8
+
+translation: 17 study genes, 2 GOs
+translation GOs: GO:0002181, GO:0006412
+0) BP GO:0002181 cytoplasmic translation (6 genes)
+1) BP GO:0006412 translation (15 genes)
+17 study genes:
+  Eef1g, Rpl10, Rpl15, Rpl22l1, Rpl35a, Rpl37a, Rpl41, Rpl9, Rplp0, Rplp1
+  Rps14, Rps19, Rps23, Rps4x, Rps5, Rps7, Rps8
+
+mitochond: 0 study genes, 0 GOs
+mitochond GOs: 
+0 study genes:
+  
+
+ribosomal: 22 study genes, 6 GOs
+ribosomal GOs: GO:0000027, GO:0000028, GO:0042274, GO:0015935, GO:0022625, GO:0022627
+0) BP GO:0000027 ribosomal large subunit assembly (3 genes)
+1) BP GO:0000028 ribosomal small subunit assembly (4 genes)
+2) BP GO:0042274 ribosomal small subunit biogenesis (3 genes)
+3) CC GO:0015935 small ribosomal subunit (4 genes)
+4) CC GO:0022625 cytosolic large ribosomal subunit (12 genes)
+5) CC GO:0022627 cytosolic small ribosomal subunit (10 genes)
+22 study genes:
+  Rpl10, Rpl13, Rpl14, Rpl15, Rpl22l1, Rpl3, Rpl35, Rpl35a, Rpl37a, Rpl9
+  Rplp0, Rplp1, Rps14, Rps16, Rps18, Rps19, Rps2, Rps23, Rps4x, Rps5
+  Rps7, Rps8
+
+ribosome: 23 study genes, 2 GOs
+ribosome GOs: GO:0005840, GO:0003735
+0) CC GO:0005840 ribosome (22 genes)
+1) MF GO:0003735 structural constituent of ribosome (18 genes)
+23 study genes:
+  Rpl10, Rpl13, Rpl14, Rpl15, Rpl22l1, Rpl3, Rpl35, Rpl35a, Rpl37a, Rpl41
+  Rpl9, Rplp0, Rplp1, Rps14, Rps16, Rps18, Rps19, Rps2, Rps23, Rps4x
+  Rps5, Rps7, Rps8
+
+adhesion: 11 study genes, 1 GOs
+adhesion GOs: GO:0007155
+0) BP GO:0007155 cell adhesion (11 genes)
+11 study genes:
+  Acan, Boc, Cd9, Col16a1, Col8a1, Ctgf, Fn1, Hapln1, Omd, Scarf2
+  Tnfrsf12a
+
+endoplasmic: 0 study genes, 0 GOs
+endoplasmic GOs: 
+0 study genes:
+  
+
+nucleotide: 0 study genes, 0 GOs
+nucleotide GOs: 
+0 study genes:
+  
+
+apoptotic: 0 study genes, 0 GOs
+apoptotic GOs: 
+0 study genes:
+  
+
+inflammation: 0 study genes, 0 GOs
+inflammation GOs: 
+0 study genes:
+  
+
+immune: 0 study genes, 0 GOs
+immune GOs: 
+0 study genes:
+  
+
+MHC: 0 study genes, 0 GOs
+MHC GOs: 
+0 study genes:
+  
+
+growth: 3 study genes, 1 GOs
+growth GOs: GO:0017134
+0) MF GO:0017134 fibroblast growth factor binding (3 genes)
+3 study genes:
+  Fgfr1, Rps19, Rps2
+
+differentiation: 6 study genes, 1 GOs
+differentiation GOs: GO:0002062
+0) BP GO:0002062 chondrocyte differentiation (6 genes)
+6 study genes:
+  Bmp2, Col11a2, Col2a1, Cytl1, Fgfr1, Sox9
+
+development: 9 study genes, 3 GOs
+development GOs: GO:0002063, GO:0007417, GO:0051216
+0) BP GO:0002063 chondrocyte development (3 genes)
+1) BP GO:0007417 central nervous system development (4 genes)
+2) BP GO:0051216 cartilage development (7 genes)
+9 study genes:
+  Acan, Bmp2, Col11a1, Col11a2, Col2a1, Col9a1, Hapln1, Mgp, Sox9

@@ -1,0 +1,79 @@
+
+RNA: 0 study genes, 0 GOs
+RNA GOs: 
+0 study genes:
+  
+
+translation: 0 study genes, 0 GOs
+translation GOs: 
+0 study genes:
+  
+
+mitochond: 0 study genes, 0 GOs
+mitochond GOs: 
+0 study genes:
+  
+
+ribosomal: 5 study genes, 1 GOs
+ribosomal GOs: GO:0022627
+0) CC GO:0022627 cytosolic small ribosomal subunit (5 genes)
+5 study genes:
+  Fau, Hba-a1, Hba-a2, Rps15a, Rps20
+
+ribosome: 0 study genes, 0 GOs
+ribosome GOs: 
+0 study genes:
+  
+
+adhesion: 0 study genes, 0 GOs
+adhesion GOs: 
+0 study genes:
+  
+
+endoplasmic: 0 study genes, 0 GOs
+endoplasmic GOs: 
+0 study genes:
+  
+
+nucleotide: 0 study genes, 0 GOs
+nucleotide GOs: 
+0 study genes:
+  
+
+apoptotic: 0 study genes, 0 GOs
+apoptotic GOs: 
+0 study genes:
+  
+
+inflammation: 0 study genes, 0 GOs
+inflammation GOs: 
+0 study genes:
+  
+
+immune: 0 study genes, 0 GOs
+immune GOs: 
+0 study genes:
+  
+
+MHC: 3 study genes, 1 GOs
+MHC GOs: GO:0019886
+0) BP GO:0019886 antigen processing and presentation of exogenous peptide antigen via MHC class II (3 genes)
+3 study genes:
+  Ctse, H2-Aa, H2-Oa
+
+growth: 0 study genes, 0 GOs
+growth GOs: 
+0 study genes:
+  
+
+differentiation: 5 study genes, 1 GOs
+differentiation GOs: GO:0030218
+0) BP GO:0030218 erythrocyte differentiation (5 genes)
+5 study genes:
+  Alas2, Fech, Gata1, Klf1, Trim10
+
+development: 9 study genes, 1 GOs
+development GOs: GO:0048821
+0) BP GO:0048821 erythrocyte development (9 genes)
+9 study genes:
+  Bpgm, Gata1, Hba-a1, Hba-a2, Hbb-b1, Hbb-b2, Klf1, Rhag, Rhd

@@ -1,0 +1,83 @@
+
+RNA: 0 study genes, 0 GOs
+RNA GOs: 
+0 study genes:
+  
+
+translation: 0 study genes, 0 GOs
+translation GOs: 
+0 study genes:
+  
+
+mitochond: 0 study genes, 0 GOs
+mitochond GOs: 
+0 study genes:
+  
+
+ribosomal: 0 study genes, 0 GOs
+ribosomal GOs: 
+0 study genes:
+  
+
+ribosome: 0 study genes, 0 GOs
+ribosome GOs: 
+0 study genes:
+  
+
+adhesion: 0 study genes, 0 GOs
+adhesion GOs: 
+0 study genes:
+  
+
+endoplasmic: 0 study genes, 0 GOs
+endoplasmic GOs: 
+0 study genes:
+  
+
+nucleotide: 0 study genes, 0 GOs
+nucleotide GOs: 
+0 study genes:
+  
+
+apoptotic: 0 study genes, 0 GOs
+apoptotic GOs: 
+0 study genes:
+  
+
+inflammation: 0 study genes, 0 GOs
+inflammation GOs: 
+0 study genes:
+  
+
+immune: 17 study genes, 2 GOs
+immune GOs: GO:0002250, GO:0002376
+0) BP GO:0002250 adaptive immune response (12 genes)
+1) BP GO:0002376 immune system process (16 genes)
+17 study genes:
+  Camk4, Cd247, Cd3d, Cd3e, Cd3g, Cd4, Cd8a, Cd8b1, Gata3, Il34
+  Lat, Pla2g2f, Psmb8, Rag1, Sh2d1a, Skap1, Xrcc6
+
+MHC: 0 study genes, 0 GOs
+MHC GOs: 
+0 study genes:
+  
+
+growth: 0 study genes, 0 GOs
+growth GOs: 
+0 study genes:
+  
+
+differentiation: 13 study genes, 3 GOs
+differentiation GOs: GO:0030217, GO:0033077, GO:0045582
+0) BP GO:0030217 T cell differentiation (9 genes)
+1) BP GO:0033077 T cell differentiation in thymus (5 genes)
+2) BP GO:0045582 positive regulation of T cell differentiation (3 genes)
+13 study genes:
+  Bcl11b, Cd27, Cd3d, Cd3e, Cd3g, Cd4, Gata3, Lck, Rag1, Rag2
+  Rhoh, Rorc, Sox4
+
+development: 4 study genes, 1 GOs
+development GOs: GO:0008544
+0) BP GO:0008544 epidermis development (4 genes)
+4 study genes:
+  Krt10, Pou3f1, Satb1, Scel
